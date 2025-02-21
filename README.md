@@ -31,7 +31,7 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/yourusername/xhswx-generator.git
+   git clone https://github.com/oOyH/xhs2wx.git
 
 2. 安装依赖：
 
@@ -54,6 +54,7 @@
 3. 生成的图像将显示在画布上，您可以选择保存图像。
 
 ## 感谢
+- https://github.com/hnauto/xhs-wx 在此基础添加修改功能
 - [iMboya]（https://www.v2ex.com/t/1085916）：原作者
 - [Tailwind CSS](https://tailwindcss.com/)：用于样式。
 - [Vite](https://vitejs.dev/)：用于构建工具。
