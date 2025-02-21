@@ -36,18 +36,18 @@
 2. 安装依赖：
 
    ```bash
-   npm install
+   npm start
    ```
 
 ## 使用
 
-1. 启动开发服务器：
+1. 启动服务：
 
    ```bash
-   npm run dev
+   npm start或者node server.js
    ```
 
-   打开浏览器并访问 `http://localhost:5173`。
+   打开浏览器并访问 `http://localhost:8080`。
 
 2. 选择背景样式并输入文本，然后点击“生成图片”按钮。
 
