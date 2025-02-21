@@ -55,6 +55,6 @@
 
 ## 感谢
 - https://github.com/hnauto/xhs-wx 在此基础添加修改功能
-- [iMboya]（https://www.v2ex.com/t/1085916/）：原作者
+- [iMboya] 原作者（https://www.v2ex.com/t/1085916/）
 - [Tailwind CSS](https://tailwindcss.com/)：用于样式。
 - [Vite](https://vitejs.dev/)：用于构建工具。
