@@ -33,7 +33,7 @@
    ```bash
    git clone https://github.com/oOyH/xhs2wx.git
 
-2. 安装依赖：
+2. 安装依赖并运行：
 
    ```bash
    npm start
